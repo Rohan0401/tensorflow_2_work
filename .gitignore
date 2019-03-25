@@ -112,3 +112,5 @@ ml_basic/saved_models/
 ml_basic/traninig_1/
 ml_basic/checkpoints/
 ml_basic/my_model.h5
+advance_text_and_sequences/gen_rnn_text/
+advance_text_and_sequences/rnn_text_gen/
