@@ -114,3 +114,4 @@ ml_basic/checkpoints/
 ml_basic/my_model.h5
 advance_text_and_sequences/gen_rnn_text/
 advance_text_and_sequences/rnn_text_gen/
+/advance_text_and_sequences/.ipynb_checkpoints
