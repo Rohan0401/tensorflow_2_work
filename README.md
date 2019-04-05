@@ -4,4 +4,4 @@ This document contains the entire series of newly launched tensorflow 2.0 framew
 
 ## Issues 
 
-- Currently the GPU is not supported properly on Linux Mint 19.1 
+- Currently the Tensorboard is not supported in the TensorFlow GPU 

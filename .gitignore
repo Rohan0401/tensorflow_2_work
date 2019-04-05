@@ -115,4 +115,7 @@ ml_basic/my_model.h5
 advance_text_and_sequences/gen_rnn_text/
 advance_text_and_sequences/rnn_text_gen/
 /advance_text_and_sequences/.ipynb_checkpoints
+advance_text_and_sequences/neural_attention/	
+advance_text_and_sequences/annotations
+advance_text_and_sequences/train2014/
 advance_text_and_sequences/neural_attention/
