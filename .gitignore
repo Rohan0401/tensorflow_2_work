@@ -119,3 +119,4 @@ advance_text_and_sequences/neural_attention/
 advance_text_and_sequences/annotations
 advance_text_and_sequences/train2014/
 advance_text_and_sequences/neural_attention/
+advance_text_and_sequences/checkpoints/
